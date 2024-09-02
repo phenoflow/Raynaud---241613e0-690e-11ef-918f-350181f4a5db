@@ -1,0 +1,24 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/raynaud's---secondary.py
+inputModule3:
+  class: File
+  path: python/raynaud-gangrene---secondary.py
+inputModule4:
+  class: File
+  path: python/raynaud-phenomenon---secondary.py
+inputModule5:
+  class: File
+  path: python/primary-raynaud---secondary.py
+inputModule6:
+  class: File
+  path: python/raynaud-trauma---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
